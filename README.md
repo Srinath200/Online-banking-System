@@ -11,4 +11,4 @@ The UI of the app comes first.
 ![WhatsApp Image 2022-11-07 at 9 45 49 PM (4)](https://user-images.githubusercontent.com/109406940/200814925-8392075d-7863-44ae-a2ff-d97ddfc652a0.jpeg)
 ![WhatsApp Image 2022-11-07 at 9 45 49 PM (2)](https://user-images.githubusercontent.com/109406940/200815005-4e6e8d44-c7af-48cb-b466-2c2a5d1c628f.jpeg)
 ![WhatsApp Image 2022-11-07 at 9 45 50 PM](https://user-images.githubusercontent.com/109406940/200815074-02eac3f7-16d6-4d67-bc02-4bc976dc9679.jpeg)
-![WhatsApp Image 2022-11-07 at 9 45 49 PM (2)](https://user-images.githubusercontent.com/109406940/200815489-a0bf3414-7a8a-4af6-9eea-1f8c4c68f084.jpeg)
+![WhatsApp Image 2022-11-07 at 9 45 49 PM](https://user-images.githubusercontent.com/109406940/200815724-0858a694-b59a-4835-b92a-47eec02e1d72.jpeg)
